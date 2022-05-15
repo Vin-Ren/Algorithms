@@ -5,6 +5,7 @@
 #include <cstdio>
 #include <cstring>
 
+
 // Assignments : https://tlx.toki.id/courses/basic/chapters/09/problems
 
 
@@ -68,7 +69,7 @@ char toggleCapitalization(char _c);
 
 
 // E. Bahasa Dengklek
-int main() {
+int bahasa_dengklek() {
     char _s[101];
 
     scanf("%s", &_s);
