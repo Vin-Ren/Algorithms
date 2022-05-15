@@ -1,6 +1,9 @@
 #include <iostream>
 #include <string>
 
+// Different libs
+#include <cstdio>
+#include <cstring>
 
 // Assignments : https://tlx.toki.id/courses/basic/chapters/09/problems
 
@@ -25,10 +28,6 @@ int pembuangan_string() {
 }
 
 
-
-// Different libs
-#include <cstdio>
-#include <cstring>
 
 // C. Caesar Chiper
 int caesar_chiper() {
