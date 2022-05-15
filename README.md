@@ -25,3 +25,8 @@ flowchart TD;
 ```
 - For example, a string splitting algorithm for javascript might be found in 'Languages/javascript/string.js' where javascript is the language, and string is the AlgorithmDivision. Although this could be changed as the project grows, if at a point, an AlgorithmField file became too big, it could instead be seperated into smaller pieces of code and be put inside the AlgorithmField folder with each file representing a smaller division of the field or the group of algorithm itself.
 - For assignment categorization, Language and AssignmentName are interchangeable, adjust accordingly to the size of a single assignment.
+
+
+### Current TODO
+- Finish tlx.toki.id - pemrograman dasar
+- Implement more [mathematical algorithms](https://www.geeksforgeeks.org/mathematical-algorithms/)
